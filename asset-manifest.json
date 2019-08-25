@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sachiT/static/css/main.15a4b6cf.chunk.css",
+    "main.css": "/sachiT/static/css/main.fa15f2d1.chunk.css",
     "main.js": "/sachiT/static/js/main.7aca196a.chunk.js",
     "main.js.map": "/sachiT/static/js/main.7aca196a.chunk.js.map",
     "runtime~main.js": "/sachiT/static/js/runtime~main.112f152e.js",
@@ -8,8 +8,8 @@
     "static/js/2.647ab03f.chunk.js": "/sachiT/static/js/2.647ab03f.chunk.js",
     "static/js/2.647ab03f.chunk.js.map": "/sachiT/static/js/2.647ab03f.chunk.js.map",
     "index.html": "/sachiT/index.html",
-    "precache-manifest.4f2bd60e651f81152a87354f072bccb3.js": "/sachiT/precache-manifest.4f2bd60e651f81152a87354f072bccb3.js",
+    "precache-manifest.fd54758a2eeb033534e23ad0780b1253.js": "/sachiT/precache-manifest.fd54758a2eeb033534e23ad0780b1253.js",
     "service-worker.js": "/sachiT/service-worker.js",
-    "static/css/main.15a4b6cf.chunk.css.map": "/sachiT/static/css/main.15a4b6cf.chunk.css.map"
+    "static/css/main.fa15f2d1.chunk.css.map": "/sachiT/static/css/main.fa15f2d1.chunk.css.map"
   }
 }
