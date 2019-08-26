@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sachiT/static/css/main.fa15f2d1.chunk.css",
-    "main.js": "/sachiT/static/js/main.7aca196a.chunk.js",
-    "main.js.map": "/sachiT/static/js/main.7aca196a.chunk.js.map",
+    "main.css": "/sachiT/static/css/main.f1acdf71.chunk.css",
+    "main.js": "/sachiT/static/js/main.91882636.chunk.js",
+    "main.js.map": "/sachiT/static/js/main.91882636.chunk.js.map",
     "runtime~main.js": "/sachiT/static/js/runtime~main.112f152e.js",
     "runtime~main.js.map": "/sachiT/static/js/runtime~main.112f152e.js.map",
-    "static/js/2.647ab03f.chunk.js": "/sachiT/static/js/2.647ab03f.chunk.js",
-    "static/js/2.647ab03f.chunk.js.map": "/sachiT/static/js/2.647ab03f.chunk.js.map",
+    "static/js/2.19e1a76f.chunk.js": "/sachiT/static/js/2.19e1a76f.chunk.js",
+    "static/js/2.19e1a76f.chunk.js.map": "/sachiT/static/js/2.19e1a76f.chunk.js.map",
     "index.html": "/sachiT/index.html",
-    "precache-manifest.aeefa1f14af4cf56a53ecb3e3270a25a.js": "/sachiT/precache-manifest.aeefa1f14af4cf56a53ecb3e3270a25a.js",
+    "precache-manifest.2e90fc773e6f7845698b5cce90742231.js": "/sachiT/precache-manifest.2e90fc773e6f7845698b5cce90742231.js",
     "service-worker.js": "/sachiT/service-worker.js",
-    "static/css/main.fa15f2d1.chunk.css.map": "/sachiT/static/css/main.fa15f2d1.chunk.css.map"
+    "static/css/main.f1acdf71.chunk.css.map": "/sachiT/static/css/main.f1acdf71.chunk.css.map"
   }
 }
