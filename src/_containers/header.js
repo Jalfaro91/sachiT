@@ -10,37 +10,28 @@ export default class header extends React.Component{
                 <div className="App bg-img">
                     <header className="App-header">
                         <img src={logo} className="App-logo" alt="logo" />
-                        {/* <p>
-                        Pet Stuffs 
-                        </p>  */}
-                        {/* <a
-                            className="App-link"
-                            href="https://reactjs.org"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                        Learn React
-                        </a> */}
-                        <div className="rssContainer d-flex justify-content-center">
-                            <RssContainer 
-                                icon="fab fa-github"
-                                linkTo="https://github.com/Jalfaro91"    
-                            />
+                        <div className="rssContainer">
+                            <div className="contenedorSecundario d-flex justify-content-center bd-highlight ">
+                                <RssContainer 
+                                    icon="fab fa-github lgIcon"
+                                    linkTo="https://github.com/Jalfaro91"    
+                                />
 
-                            <RssContainer 
-                                icon="fab fa-spotify"
-                                linkTo="https://open.spotify.com/user/ouiai"    
-                            />
+                                <RssContainer 
+                                    icon="fab fa-spotify lgIcon"
+                                    linkTo="https://open.spotify.com/user/ouiai"    
+                                />
 
-                            <RssContainer 
-                                icon="fab fa-linkedin"
-                                linkTo="https://www.linkedin.com/in/juan-alfaro-godoy-923b58152"    
-                            />
+                                <RssContainer 
+                                    icon="fab fa-linkedin lgIcon"
+                                    linkTo="https://www.linkedin.com/in/juan-alfaro-godoy-923b58152"    
+                                />
 
-                            <RssContainer 
-                                icon="fab fa-instagram"
-                                linkTo="https://www.instagram.com/lifeisouiai/"    
-                            />  
+                                <RssContainer 
+                                    icon="fab fa-instagram lgIcon"
+                                    linkTo="https://www.instagram.com/lifeisouiai/"    
+                                />  
+                            </div>
                         </div>
                     </header>
                 </div>

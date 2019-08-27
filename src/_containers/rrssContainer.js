@@ -1,19 +1,20 @@
 import React from 'react'
-import Button from '@material-ui/core/Button'
-import Container from '@material-ui/core/Container'
 
 export default class RssContainer extends React.Component{
 
     render () {
         return (
             <>
-            <div className="d-flex justify-content-center bd-highlight p-5">
+            <div className="d-flex p-4">
                 <a 
                     className="linkRRSS" 
                     href={this.props.linkTo}
-                    target="_blank"    
-                >
+                    target="_blank"
+                    rel="noopener noreferrer"    
+                >   
+                <span className="spanIcon">
                     <i className={this.props.icon}></i>
+                </span>
                 </a>
             </div>
             </>

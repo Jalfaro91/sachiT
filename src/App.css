@@ -4,7 +4,7 @@
 
 .App-logo {
   /* animation: App-logo-spin infinite 20s linear; */
-  height: 40vmin;
+  height: 47vmin;
   pointer-events: none;
   /* position: absolute; */
   /* top : 10px; */
@@ -13,7 +13,7 @@
 
 .App-header {
   /* background-color: #282c34; */
-  min-height: 100vh;
+  min-height: 90vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,7 +36,6 @@
 }
 
 /* CUSTOM STYLES  */
-/* blob:https://imgur.com/861fc597-f5ea-4566-95e4-0fddaa4af750 */
 
 .bg-img {
   position: absolute;
@@ -53,25 +52,23 @@
   right: 0;
   bottom: 0;
   left: 0;
-  /* background-image: linear-gradient(to bottom right,#282c34,#000000); */
-  opacity: .6; 
+  background-image: linear-gradient(to bottom right,#ffffff,#00090e);
+  opacity: .2; 
 }
 
 .rssContainer{
   background-color: rgb(18, 70, 87);
   width: 100%;
-  /* height: 120px; */
   opacity: 0.6;
-  /* padding:10px; */
   position: absolute;
   align-content: center;
-  bottom : 30px;
-  /* padding:5px 5px 5px 5px; */
+  bottom : 38px;
+
 }
 
 .bloquesRRSS{
   margin: 0;
-  /* background: yellow; */
+
   position: absolute;
   top: 50%;
   left: 50%;
@@ -86,6 +83,15 @@
 .linkRRSS{
   text-decoration:none;
   color :white;
+
+}
+.contenedorSecundario{
+  width: 100%;
+
+}
+
+.spanIcon{
+  font-size: 27px;
 }
 
 
