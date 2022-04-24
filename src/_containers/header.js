@@ -29,7 +29,7 @@ export default class header extends React.Component{
 
                                 <RssContainer 
                                     icon="fab fa-instagram lgIcon"
-                                    linkTo="https://www.instagram.com/lifeisouiai/"    
+                                    linkTo="https://www.instagram.com/jpalfarog/"    
                                 />  
                             </div>
                         </div>
