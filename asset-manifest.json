@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sachiT/static/css/main.86c0fcb4.chunk.css",
+    "main.js": "/sachiT/static/js/main.e22096d9.chunk.js",
+    "main.js.map": "/sachiT/static/js/main.e22096d9.chunk.js.map",
+    "runtime~main.js": "/sachiT/static/js/runtime~main.112f152e.js",
+    "runtime~main.js.map": "/sachiT/static/js/runtime~main.112f152e.js.map",
+    "static/js/2.2dff0db0.chunk.js": "/sachiT/static/js/2.2dff0db0.chunk.js",
+    "static/js/2.2dff0db0.chunk.js.map": "/sachiT/static/js/2.2dff0db0.chunk.js.map",
+    "index.html": "/sachiT/index.html",
+    "precache-manifest.d8a76963ed0239aa800cd622884bbc24.js": "/sachiT/precache-manifest.d8a76963ed0239aa800cd622884bbc24.js",
+    "service-worker.js": "/sachiT/service-worker.js",
+    "static/css/main.86c0fcb4.chunk.css.map": "/sachiT/static/css/main.86c0fcb4.chunk.css.map"
+  }
+}
